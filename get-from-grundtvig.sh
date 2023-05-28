@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-
 # bible_ref_tesim:"Åb"
 # AND
 # subcollection_ssi:gv
